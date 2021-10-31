@@ -67,6 +67,10 @@ a:hover {
   background-color: #676767;
 }
 
+.tm-bg-violet {
+  background-color: #483D8B;
+}
+
 /*
   Welcome section
 */
@@ -191,6 +195,10 @@ a:hover {
 
 .tm-text-dark-gray {
   color: #676767;
+}
+
+.tm-text-violet {
+  color: #483D8B;
 }
 
 .tm-title-small {
